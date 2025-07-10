@@ -1,25 +1,26 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pac-Man Contribution Game
 
 on:
   schedule:
-    # runs every day at 00:00 UTC; adjust as you like
+    # runs every day at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:    # lets you trigger manually
+  workflow_dispatch:    # allows manual runs
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v3
 
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@v1
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: alifiya2003
           output_path: output
-          # Optionally tweak these:
+          # Optional tweaks:
           # theme: dark
           # pacman_color: yellow
           # ghost_color: red
