@@ -80,19 +80,49 @@
 
   <!-- Essential Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" style="padding: 20px" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" style="padding: 20px" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="60" style="padding: 20px; background-color: #181717; border-radius: 10px;" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" style="padding: 20px" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" style="padding: 20px" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" style="padding: 20px" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" style="padding: 20px" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" style="padding: 20px; background-color: white; border-radius: 10px;" alt="Express"/>
+  <img src="https://cdn.simpleicons.org/express/339933" height="60" style="padding: 20px; background-color: #FFFFFF; border-radius: 10px;" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" style="padding: 20px" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" style="padding: 20px" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" style="padding: 20px" alt="Notion"/>
 
 </div>
 
-<br/><br/>
+<br/>
+
+<br/>
+
+## 🏆 GitHub Stats & Trophies
+
+<div align="center">
+
+  <!-- GitHub Stats - side by side, no border box or table -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alifiya2003&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifiya2003&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+   <br/><br/>
+  <!-- GitHub Trophies -->
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=alifiya2003&theme=tokyonight&no-frame=true&no-ng=true&column=-1&title=Experience,Commits,PullRequest,Repositories"
+    style="display: inline-block; height: 140px;"
+  />
+</div>
+
+
+
+
+ 
+
+</div>
+
+
+
+<br/>
 
 ## 💬 Let’s Connect
 
