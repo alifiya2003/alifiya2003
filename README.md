@@ -58,9 +58,9 @@
 
 | 🌟 Project | 💬 Overview | 🛠 Tech | 🔗 Repo |
 |-----------|-------------|--------|---------|
-| **AI Image Generator** | Generate unique AI art from text prompts using OpenAI’s image API, with a clean and responsive MERN front end. | MongoDB · Express · React · Node.js · OpenAI API | [GitHub Repo](https://github.com/alifiya2003/ai-image-generator) |
-| **Chess Simulator** | Full-featured TypeScript chess engine with PvP and AI modes, powered by OOP and minimax logic. | TypeScript · React · Webpack | [GitHub Repo](https://github.com/alifiya2003/chess) |
-| **Voice AI Assistant** | AI-powered voice assistant that captures patient data over phone calls, validates inputs, and confirms appointments. | Python · Twilio · Deepgram · ElevenLabs · Flask | [GitHub Repo](https://github.com/alifiya2003/voice_ai_assistant) |
+| **AI Image Generator** | Generate unique AI art from text prompts using OpenAI’s image API, with a clean and responsive MERN front end. | MongoDB · Express · React · Node.js · OpenAI API | [GitHub Repo](https://github.com/alifiya2003/Image_generator.git) |
+| **Chess Simulator** | Full-featured TypeScript chess engine with PvP and AI modes, powered by OOP and minimax logic. | TypeScript · React · Webpack | [GitHub Repo](https://github.com/alifiya2003/chess.git) |
+| **Voice AI Assistant** | AI-powered voice assistant that captures patient data over phone calls, validates inputs, and confirms appointments. | Python · Twilio · Deepgram · ElevenLabs · Flask | [GitHub Repo](https://github.com/alifiya2003/voice_ai_assistant.git) |
 
 <br/>
 
