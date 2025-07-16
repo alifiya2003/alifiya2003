@@ -18,7 +18,7 @@
 - 🎓 B.S. Computer Science @ Arizona State University (GPA 4.00)  
 - 💻 Intern @ Tweebaa Inc: built Uniapp front-ends & AWS Lambda microservices  
 - 🔧 I craft **scalable web apps**, design **REST & GraphQL APIs**, and automate CI/CD in AWS  
-- 🌱 Always leveling up in AI/ML, Kubernetes, and Rust  
+- 🌱 Always leveling up in AI/ML, Kubernetes, AWS, and python  
 
 <br/>
 
